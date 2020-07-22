@@ -7,3 +7,4 @@
 # Ig :@rensimyl
 # LinkedIn : RENSI MEILA
 
+![Alt Text](https://github.com/rensimeila04/Perkenalan/blob/master/perkenalan.jpeg)
